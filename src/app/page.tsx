@@ -16,7 +16,7 @@ export default function Home() {
     <Header />
     <AboutUs />
     <div className="h-[50vh] bg-[#000000] text-white flex flex-col justify-center items-center">
-      <div className="my-5 text-xl text-center md:text-4xl">Prepared to turn your ideas into<br /> reality? I'm here to help</div>
+      <div className="my-5 text-xl text-center md:text-4xl">Prepared to turn your ideas into<br /> reality? I am here to help</div>
       <button className="mx-2 text-sm border hover:bg-white hover:text-black hover:border-black px-4 py-3 rounded-3xl transition duration-200 bg-black text-white sm:text-base border-white"
         onClick={handleClick}>Contact Me</button>
     </div>
