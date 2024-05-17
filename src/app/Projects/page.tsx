@@ -42,7 +42,7 @@ const items: Item[] = [
         id: 4,
         color: "from-purple-300 to-red-300",
         title: "Recipe Web App",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+        desc: "Recipe Web App is a user-friendly web app for discovering, saving, and sharing recipes. It uses a powerful API to provide a vast database of recipes from various cuisines and dietary preferences..",
         img: "/Project/recipe.png",
         link: "https://sudhanshuuu.github.io/RecipeWebApp/",
     },
